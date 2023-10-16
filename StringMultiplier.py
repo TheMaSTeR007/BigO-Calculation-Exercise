@@ -13,3 +13,9 @@ def StringMultiplier(string,multiplier):
         print("-"*len(message)) # O(n)
 
 StringMultiplier("Hello",5)
+
+# So here we get to know that the Big O notation for above funciton is :
+
+# O(1) + O(1) + O(1) + O(n) + O(n) + O(n) + O(n) = 1 + 1 + 1 + n + n + n + n = 3 + 4n
+
+# BigO notation is --> 3 + 4n for above function
