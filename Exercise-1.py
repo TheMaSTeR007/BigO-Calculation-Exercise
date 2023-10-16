@@ -1,3 +1,5 @@
+# // What is the Big O of the below function? //
+
 # In this program we calcaulte the Big O Notation of function --> which is written on the right side of every line of function as a comment.
 
 # Here is a Function which prints a string Entered by user as many times directed by the user.
